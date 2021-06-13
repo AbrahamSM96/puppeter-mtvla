@@ -1,0 +1,16 @@
+{
+    "name": "puppeter-mtvla",
+    "version": "1.0.0",
+    "description": "scrapping votes to creative",
+    "main": "index.js",
+    "dependencies": {
+        "puppeteer": "^10.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "abrahamserrano96@hotmail.com",
+    "license": "ISC"
+}
